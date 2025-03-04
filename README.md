@@ -51,8 +51,8 @@ Before you begin, ensure you have the following installed:
 1. Clone or download the template:
 
 ```bash
-git clone https://github.com/yourusername/portfolio-pro.git
-cd portfolio-pro
+Download file from themeforest and extract on your computer
+Go to portfolio-pro folder
 ```
 
 2. Install dependencies:
