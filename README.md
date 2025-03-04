@@ -48,10 +48,10 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-1. Clone or download the template:
+1. Download the template:
 
 ```bash
-Download file from themeforest and extract on your computer
+Download template from themeforest and extract on your computer
 Go to portfolio-pro folder
 ```
 
